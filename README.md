@@ -1,6 +1,6 @@
 # Hi, I'm Zach 👋
 
-Proffesional Service Engineer at **NetApp**, where I help enterprise IT customers build LLM-enabled tools, retrieval (RAG) assistants, and MCP integrations — along with the backend services and infrastructure automation that keep them running. Mostly in Python.
+Professional Service Engineer at **NetApp**, where I help enterprise IT customers build LLM-enabled tools, retrieval (RAG) assistants, and MCP integrations — along with the backend services and infrastructure automation that keep them running. Mostly in Python.
 
 I like turning messy operational problems into clean, reliable tooling that teams actually use.
 
