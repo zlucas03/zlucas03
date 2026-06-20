@@ -1,6 +1,6 @@
 # Hi, I'm Zach 👋
 
-AI / Software Engineer at **NetApp**, where I build LLM-enabled internal tools, retrieval (RAG) assistants, and MCP integrations — along with the backend services and infrastructure automation that keep them running. Mostly in Python.
+Proffesional Service Engineer at **NetApp**, where I help enterprise IT customers build LLM-enabled tools, retrieval (RAG) assistants, and MCP integrations — along with the backend services and infrastructure automation that keep them running. Mostly in Python.
 
 I like turning messy operational problems into clean, reliable tooling that teams actually use.
 
@@ -14,6 +14,5 @@ I like turning messy operational problems into clean, reliable tooling that team
 
 ### A bit more about me
 - 🎓 B.S. Computer Science — North Carolina State University
-- 🌱 Currently going deeper on the **Model Context Protocol** ecosystem and open-source AI tooling
-- 💬 Happy to talk MCP, RAG pipelines, or infrastructure automation
+- 💬 Happy to talk ML, MCP, RAG pipelines, or infrastructure automation
 - 📫 [LinkedIn](https://www.linkedin.com/in/zacharyslucas/) · [zlucas120@gmail.com](mailto:zlucas120@gmail.com)
